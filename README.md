@@ -17,3 +17,6 @@ docker run --rm \
 oogasawa/jupyter-typescript
 ```
 
+## Screenshots
+
+<img src="./Capture.JPG" />
